@@ -1,0 +1,7 @@
+{
+  "development": {
+    "port" : 3000,
+    "dburl" : "mongodb://localhost/smoothies",
+    "secret" : "OHAZ_oiaze_382:zaihe"
+  }
+}
